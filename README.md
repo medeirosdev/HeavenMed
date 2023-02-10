@@ -1,3 +1,15 @@
+
+
+<b> Hello there👋 , I'm guilherme, but you can call me only gui or medeiros. </b>
+          <ul>
+          <li>💥 I am a Fullstack Developer since early 2022. </li>
+          <li>💢 I'm currently learning Java and working with NodeJS. </li>
+          <li>💬 If you want to contact me directly, call me on telegram <2 @nokiamed. </li>
+          <li>❤️ "Jack of all trades, master of none". </li>
+          </ul>
+                    
+          
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeavenMed&show_icons=true&theme=gruvbox)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeavenMed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
