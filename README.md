@@ -7,6 +7,7 @@
           <li>💬 If you want to contact me directly, call me on telegram <2 @nokiamed. </li>
           <li>❤️ "Jack of all trades, master of none". </li>
           </ul>
+ 
                     
           
 
@@ -29,12 +30,11 @@
 <img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 <img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg" />
-          
-          
-  
-                    
+                            
                   
 </div>
+
+
 <br>
 <br>
 <h2>Confira minhas redes sociais!</h2>
