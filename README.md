@@ -7,6 +7,7 @@
           <li>💬 If you want to contact me directly, call me on telegram <2 @nokiamed. </li>
           <li>❤️ "Jack of all trades, master of none". </li>
           </ul>
+ <hr>
  
                     
           
@@ -16,6 +17,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeavenMed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<hr>
+<h2>
 <div style="display: inline_block"><br>
 <img height="80" width="110"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
@@ -30,6 +33,10 @@
 <img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 <img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg" />
+<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+          
+          
                             
                   
 </div>
