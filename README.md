@@ -12,9 +12,9 @@
                     
           
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeavenMed&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medeirosdev&show_icons=true&theme=gruvbox)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeavenMed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medeirosdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <hr>
